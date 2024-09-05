@@ -1,19 +1,25 @@
 // * PRACTICA DECLARACION DE VARIABLES
 
 let numero = 15
-typeof numero // -> number
+let typeNumber = typeof numero // -> number
+console.log(typeNumber);
 
 let numeroFloat = 15.78
-typeof numeroFloat // -> number
+let typeNumberFloat = typeof numeroFloat // -> number
+console.log(typeNumberFloat)
 
 let booleano = true
-typeof booleano // -> boolean
+let typeBoolean = typeof booleano // -> boolean
+console.log(typeBoolean)
 
 let string = "Caracteres"
-typeof string // -> string
+let typeString = typeof string // -> string
+console.log(typeString)
 
 let vacio = null
-typeof vacio // -> object
+let typeNull = typeof vacio // -> object
+console.log(typeNull)
 
 let indefinido;
-typeof indefinido // -> undefined
+let typeUndefined = typeof indefinido // -> undefined
+console.log(typeUndefined)
