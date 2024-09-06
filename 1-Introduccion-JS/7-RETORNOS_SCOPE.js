@@ -1,4 +1,8 @@
-// ***SCOPE
+// *SCOPE
+/* 
+  NOTE:
+    Es el contexto en el que los valores y expresiones son "visibles" o pueden ser referenciados.
+*/
 
 {
   {
@@ -38,7 +42,7 @@
 
 }
 
-// ***RETURN
+// *RETURN
 {
   /* 
     NOTE:

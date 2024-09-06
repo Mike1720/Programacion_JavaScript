@@ -1,4 +1,8 @@
 // * OPERADORES ARITMETICOS
+/* 
+  NOTE:
+    Se utilizan para realizar operaciones matemáticas básicas entre números.
+*/
 
 let x = 25.14
 

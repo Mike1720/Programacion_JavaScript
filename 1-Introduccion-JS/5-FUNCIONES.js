@@ -1,4 +1,8 @@
 // * FUNCIONES
+/*
+  NOTE:
+    Las funciones se pueden definir como un bloque de codigo reutilizable que realiza una tarea especifica.
+*/
 
 {
   /* ESTRUCTURA DE UNA FUNCION

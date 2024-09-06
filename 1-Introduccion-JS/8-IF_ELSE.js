@@ -1,4 +1,10 @@
 // *ESTRUCTURA DE CONTROL IF/ELSE
+/* 
+  NOTE:
+    La estructura if/else es una estructura que evalua si una condicion es verdadera o falsa, dependiendo
+    el caso, ejecutara las instrucciones indicadas dentro del bloque de codigo.
+
+*/
 {
   let edad = 25
 
