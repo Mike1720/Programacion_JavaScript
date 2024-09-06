@@ -32,8 +32,7 @@ Para su uso es recomendable tener Node.js instalado, aunque tambien podrias util
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-
+   git clone https://github.com/Mike1720/Programacion_JavaScript.git
    ```
 2. Instala las dependencias
    ```bash
