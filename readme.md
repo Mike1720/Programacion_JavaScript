@@ -49,16 +49,16 @@ Revisar los archivos de codigo fuente, cada archivo contiene ejemplos y descripc
 ```mermaid
 
 graph TD;
-    A[./1-Introduccion-JS] --> B[DesafioPractico]
-    B --> C[desafioPractico1.js]
+    A[./1-Introduccion-JS] --> B[Ejercicios]
+    B --> C[ejercicios1.js]
     A --> D[proyecto_calculadora]
     D --> E[calculadora.js]
     D --> F[package-lock.json]
     D --> G[package.json]
-    A --> H[1-DECLARACION_VARIABLES.js]
+    A --> H[1-DATOS_DECLARACION_VARIABLES.js]
     A --> I[2-CONCATENACION_INTERPOLACION.js]
     A --> J[3-OPERADORES_ARITMETICOS.js]
-    A --> K[4-OPERADORES_RELACIONALES.js]
+    A --> K[4-OPERADORES_COMPARACION.js]
     A --> L[5-FUNCIONES.js]
     A --> M[6-PARAMETROS.js]
     A --> N[7-RETORNOS_SCOPE.js]
@@ -68,8 +68,8 @@ graph TD;
     A --> R[11-SWITCH.js]
     A --> S[12-VAR_VS_LET.js]
 
-    T[./2-Javascript_Intermedio] --> U[DesafioPractico]
-    U --> V[desafioPractico2.js]
+    T[./2-Javascript_Intermedio] --> U[Ejercicios]
+    U --> V[ejercicios2.js]
     T --> W[proyecto_task_manager]
     W --> X[task_manager.js]
     T --> Y[1-WHILE.js]
@@ -81,13 +81,15 @@ graph TD;
     T --> AE[7-METODOS_STR.js]
     T --> AF[8-OBJETOS_LITERALES.js]
 
-    AG[./3-Javascript_avanzado] --> AH[1-INTRO_MATRICES.js]
-    AG --> AI[2-RECORRER_MAT.js]
-    AG --> AJ[3-FILTRAR_MAT.js]
-    AG --> AK[4-TIPOS_FUNCIONES.js]
-    AG --> AL[5-CALLBACKS.js]
-    AG --> AM[6-METODOS_ARR_AVANZADOS.js]
-    AG --> AN[7-M_METODOS_ARR.js]
+    AG[./3-Javascript_avanzado] --> AH[Ejercicios]
+    AH --> AI[ejercicios3.js]
+    AG --> AJ[1-MATRICES_BIDIMENSIONALES.js]
+    AG --> AK[2-RECORRER_MATRICES.js]
+    AG --> AL[3-FILTRADO_MATRICES.js]
+    AG --> AM[4-TIPOS_FUNCIONES.js]
+    AG --> AN[5-CALLBACKS.js]
+    AG --> AO[6-METODOS_ARR_AVANZADOS.js]
+    AG --> AP[7-M_METODOS_ARR.js]
 
 ```
 
