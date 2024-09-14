@@ -37,9 +37,9 @@ function completeTask(index) {
 // MODIFICAR TAREA
 function modifyTask(index, newTaskName, newTaskDeadline = null) {
   if (index >= 0 && index < tasks.length) {
-    tasks[i].nombre = newTaskName
+    tasks[index].nombre = newTaskName
     if (newTaskDeadline !== null) {
-      tasks[i].deadLine = newTaskDeadline
+      tasks[index].deadLine = newTaskDeadline
     }
     console.log("Tarea modificada con exito");
   } else {
